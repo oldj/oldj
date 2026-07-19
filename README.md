@@ -2,7 +2,7 @@
 
 I am a full-stack engineer and independent developer living in beautiful Hangzhou.
 
-- 🐦 Twitter - [@oldj](https://twitter.com/oldj)
+- 🐦 X.com - [@oldj](https://x.com/oldj)
 - 📝 Blog - [https://oldj.net](https://oldj.net)
 - ✉️ Email - [oldj.wu@gmail.com](mailto:oldj.wu@gmail.com)
 
