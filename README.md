@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-stack engineer and independent developer living in beautiful Hangzhou.
+I am a full-stack engineer and independent developer.
 
 - 🐦 X.com - [@oldj](https://x.com/oldj)
 - 📝 Blog - [https://oldj.net](https://oldj.net)
